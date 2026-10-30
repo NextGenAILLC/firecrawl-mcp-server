@@ -1605,8 +1605,8 @@ packages:
   undici-types@7.12.0:
     resolution: {integrity: sha512-goOacqME2GYyOZZfb5Lgtu+1IDmAlAEu5xnD3+xTzS10hT0vzpf0SPjkXwAw9Jm+4n/mQGDP3LO8CPbYROeBfQ==}
 
-  undici@7.28.0:
-    resolution: {integrity: sha512-cRZYrTDwWznlnRiPjggAGxZXanty6M8RV1ff8Wm4LWXBp7/IG8v5DnOm74DtUBp9OONpK75YlPnIjQqX0dBDtA==}
+  undici@7.30.1:
+    resolution: {integrity: sha512-03KrMbjIFDWQR5RNPrSw3bd1r12JpyFQl9/yxjUbJtqkjmllqC5lFjZh6ujeuJCKr8EOQvRW872Oy/az+nLYxg==}
     engines: {node: '>=20.18.1'}
 
   unicorn-magic@0.3.0:
@@ -2499,7 +2499,7 @@ snapshots:
       hono: 4.12.27
       mcp-proxy: 6.5.1(supports-color@7.2.0)
       strict-event-emitter-types: 2.0.0
-      undici: 7.28.0
+      undici: 7.30.1
       uri-templates: 0.2.0
       xsschema: 0.4.4(zod-to-json-schema@3.25.2(zod@4.4.3))(zod@4.4.3)
       yargs: 18.0.0
@@ -3279,7 +3279,7 @@ snapshots:
 
   undici-types@7.12.0: {}
 
-  undici@7.28.0: {}
+  undici@7.30.1: {}
 
   unicorn-magic@0.3.0: {}
 
